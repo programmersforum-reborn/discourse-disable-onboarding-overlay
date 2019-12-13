@@ -1,5 +1,6 @@
 {
   "name": "Disable Onboarding Overlay",
+  "component": true,
   "about_url": "https://github.com/programmersforum-reborn/discourse-disable-onboarding-overlay",
   "license_url": "https://github.com/programmersforum-reborn/discourse-disable-onboarding-overlay/blob/master/LICENSE.txt"
 }
